@@ -1,0 +1,263 @@
+Field,Query
+displayName,What is the display name of Ajay Sharma?
+displayName,Can you tell me the display name for Priya Verma?
+displayName,Please provide the display name for John Doe.
+displayNameWithNumber,Show me the display name with number for Ajay Sharma.
+displayNameWithNumber,What is Priya Verma’s display name including her number?
+displayNameWithNumber,I need the display name with contact for John Doe.
+userMasterID,What is the user master ID of Ajay Sharma?
+userMasterID,Can you tell me the ID assigned to Priya Verma?
+userMasterID,Give me the userMasterID for John Doe.
+firstName,What is the first name of Ajay Sharma?
+firstName,Tell me Priya Verma’s first name.
+firstName,Please provide the first name for John Doe.
+middleName,What is Ajay Sharma’s middle name?
+middleName,Can you tell me Priya Verma’s middle name?
+middleName,Provide the middle name of John Doe.
+lastName,What is Ajay Sharma’s last name?
+lastName,Tell me the surname of Priya Verma.
+lastName,Please provide the family name of John Doe.
+userNumber,What is the user number of Ajay Sharma?
+userNumber,Can you tell me the mobile number for Priya Verma?
+userNumber,Give me the user contact number of John Doe.
+gender,What is the gender of Ajay Sharma?
+gender,Can you tell me if Priya Verma is male or female?
+gender,Please provide the gender of John Doe.
+maratialStatus,What is Ajay Sharma’s marital status?
+maratialStatus,Is Priya Verma married or single?
+maratialStatus,Tell me the marital status of John Doe.
+email,What is Ajay Sharma’s email address?
+email,Can you tell me the email of Priya Verma?
+email,Give me the email for John Doe.
+otherContactNumber,What is the alternate contact number of Ajay Sharma?
+otherContactNumber,Provide Priya Verma’s other phone number.
+otherContactNumber,Tell me John Doe’s secondary contact number.
+status,What is the status of Ajay Sharma?
+status,Can you tell me status for Priya Verma?
+status,Please provide the status for John Doe.
+roleName,What is the roleName of Ajay Sharma?
+roleName,Can you tell me roleName for Priya Verma?
+roleName,Please provide the roleName for John Doe.
+companyMasterID,What is the companyMasterID of Ajay Sharma?
+companyMasterID,Can you tell me companyMasterID for Priya Verma?
+companyMasterID,Please provide the companyMasterID for John Doe.
+companyName,What is the companyName of Ajay Sharma?
+companyName,Can you tell me companyName for Priya Verma?
+companyName,Please provide the companyName for John Doe.
+companyAddress,What is the companyAddress of Ajay Sharma?
+companyAddress,Can you tell me companyAddress for Priya Verma?
+companyAddress,Please provide the companyAddress for John Doe.
+companyWebsite,What is the companyWebsite of Ajay Sharma?
+companyWebsite,Can you tell me companyWebsite for Priya Verma?
+companyWebsite,Please provide the companyWebsite for John Doe.
+companyEmail,What is the companyEmail of Ajay Sharma?
+companyEmail,Can you tell me companyEmail for Priya Verma?
+companyEmail,Please provide the companyEmail for John Doe.
+companyLogo,What is the companyLogo of Ajay Sharma?
+companyLogo,Can you tell me companyLogo for Priya Verma?
+companyLogo,Please provide the companyLogo for John Doe.
+cpName,What is the cpName of Ajay Sharma?
+cpName,Can you tell me cpName for Priya Verma?
+cpName,Please provide the cpName for John Doe.
+cpMobileNo,What is the cpMobileNo of Ajay Sharma?
+cpMobileNo,Can you tell me cpMobileNo for Priya Verma?
+cpMobileNo,Please provide the cpMobileNo for John Doe.
+cpEmail,What is the cpEmail of Ajay Sharma?
+cpEmail,Can you tell me cpEmail for Priya Verma?
+cpEmail,Please provide the cpEmail for John Doe.
+parentCompanyMasterID,What is the parentCompanyMasterID of Ajay Sharma?
+parentCompanyMasterID,Can you tell me parentCompanyMasterID for Priya Verma?
+parentCompanyMasterID,Please provide the parentCompanyMasterID for John Doe.
+subCompanyRequired,What is the subCompanyRequired of Ajay Sharma?
+subCompanyRequired,Can you tell me subCompanyRequired for Priya Verma?
+subCompanyRequired,Please provide the subCompanyRequired for John Doe.
+employeeCodePattern,What is the employeeCodePattern of Ajay Sharma?
+employeeCodePattern,Can you tell me employeeCodePattern for Priya Verma?
+employeeCodePattern,Please provide the employeeCodePattern for John Doe.
+expenseDatePicker,What is the expenseDatePicker of Ajay Sharma?
+expenseDatePicker,Can you tell me expenseDatePicker for Priya Verma?
+expenseDatePicker,Please provide the expenseDatePicker for John Doe.
+panNumber,What is the panNumber of Ajay Sharma?
+panNumber,Can you tell me panNumber for Priya Verma?
+panNumber,Please provide the panNumber for John Doe.
+tanNumber,What is the tanNumber of Ajay Sharma?
+tanNumber,Can you tell me tanNumber for Priya Verma?
+tanNumber,Please provide the tanNumber for John Doe.
+companyDescription,What is the companyDescription of Ajay Sharma?
+companyDescription,Can you tell me companyDescription for Priya Verma?
+companyDescription,Please provide the companyDescription for John Doe.
+employeeCodeType,What is the employeeCodeType of Ajay Sharma?
+employeeCodeType,Can you tell me employeeCodeType for Priya Verma?
+employeeCodeType,Please provide the employeeCodeType for John Doe.
+authorizedSignature,What is the authorizedSignature of Ajay Sharma?
+authorizedSignature,Can you tell me authorizedSignature for Priya Verma?
+authorizedSignature,Please provide the authorizedSignature for John Doe.
+customerListPreference,What is the customerListPreference of Ajay Sharma?
+customerListPreference,Can you tell me customerListPreference for Priya Verma?
+customerListPreference,Please provide the customerListPreference for John Doe.
+ownerName,What is the ownerName of Ajay Sharma?
+ownerName,Can you tell me ownerName for Priya Verma?
+ownerName,Please provide the ownerName for John Doe.
+ownerFatherName,What is the ownerFatherName of Ajay Sharma?
+ownerFatherName,Can you tell me ownerFatherName for Priya Verma?
+ownerFatherName,Please provide the ownerFatherName for John Doe.
+tdsdeduction,What is the tdsdeduction of Ajay Sharma?
+tdsdeduction,Can you tell me tdsdeduction for Priya Verma?
+tdsdeduction,Please provide the tdsdeduction for John Doe.
+uniqueEmpCode,What is the uniqueEmpCode of Ajay Sharma?
+uniqueEmpCode,Can you tell me uniqueEmpCode for Priya Verma?
+uniqueEmpCode,Please provide the uniqueEmpCode for John Doe.
+cinNumber,What is the cinNumber of Ajay Sharma?
+cinNumber,Can you tell me cinNumber for Priya Verma?
+cinNumber,Please provide the cinNumber for John Doe.
+setUpTime,What is the setUpTime of Ajay Sharma?
+setUpTime,Can you tell me setUpTime for Priya Verma?
+setUpTime,Please provide the setUpTime for John Doe.
+employeeJoiningDetailId,What is the employeeJoiningDetailId of Ajay Sharma?
+employeeJoiningDetailId,Can you tell me employeeJoiningDetailId for Priya Verma?
+employeeJoiningDetailId,Please provide the employeeJoiningDetailId for John Doe.
+employeeCode,What is the employeeCode of Ajay Sharma?
+employeeCode,Can you tell me employeeCode for Priya Verma?
+employeeCode,Please provide the employeeCode for John Doe.
+AccountMasterId,What is the AccountMasterId of Ajay Sharma?
+AccountMasterId,Can you tell me AccountMasterId for Priya Verma?
+AccountMasterId,Please provide the AccountMasterId for John Doe.
+dob,What is the dob of Ajay Sharma?
+dob,Can you tell me dob for Priya Verma?
+dob,Please provide the dob for John Doe.
+joiningDate,What is the joiningDate of Ajay Sharma?
+joiningDate,Can you tell me joiningDate for Priya Verma?
+joiningDate,Please provide the joiningDate for John Doe.
+leavingDate,What is the leavingDate of Ajay Sharma?
+leavingDate,Can you tell me leavingDate for Priya Verma?
+leavingDate,Please provide the leavingDate for John Doe.
+adharCard,What is the adharCard of Ajay Sharma?
+adharCard,Can you tell me adharCard for Priya Verma?
+adharCard,Please provide the adharCard for John Doe.
+esicNumber,What is the esicNumber of Ajay Sharma?
+esicNumber,Can you tell me esicNumber for Priya Verma?
+esicNumber,Please provide the esicNumber for John Doe.
+pfNumber,What is the pfNumber of Ajay Sharma?
+pfNumber,Can you tell me pfNumber for Priya Verma?
+pfNumber,Please provide the pfNumber for John Doe.
+uanNumber,What is the uanNumber of Ajay Sharma?
+uanNumber,Can you tell me uanNumber for Priya Verma?
+uanNumber,Please provide the uanNumber for John Doe.
+pancard,What is the pancard of Ajay Sharma?
+pancard,Can you tell me pancard for Priya Verma?
+pancard,Please provide the pancard for John Doe.
+bankMasterID,What is the bankMasterID of Ajay Sharma?
+bankMasterID,Can you tell me bankMasterID for Priya Verma?
+bankMasterID,Please provide the bankMasterID for John Doe.
+bankBranchID,What is the bankBranchID of Ajay Sharma?
+bankBranchID,Can you tell me bankBranchID for Priya Verma?
+bankBranchID,Please provide the bankBranchID for John Doe.
+bankIFSC,What is the bankIFSC of Ajay Sharma?
+bankIFSC,Can you tell me bankIFSC for Priya Verma?
+bankIFSC,Please provide the bankIFSC for John Doe.
+bankAccountNo,What is the bankAccountNo of Ajay Sharma?
+bankAccountNo,Can you tell me bankAccountNo for Priya Verma?
+bankAccountNo,Please provide the bankAccountNo for John Doe.
+retirementAge,What is the retirementAge of Ajay Sharma?
+retirementAge,Can you tell me retirementAge for Priya Verma?
+retirementAge,Please provide the retirementAge for John Doe.
+retirementDate,What is the retirementDate of Ajay Sharma?
+retirementDate,Can you tell me retirementDate for Priya Verma?
+retirementDate,Please provide the retirementDate for John Doe.
+noticePeriod,What is the noticePeriod of Ajay Sharma?
+noticePeriod,Can you tell me noticePeriod for Priya Verma?
+noticePeriod,Please provide the noticePeriod for John Doe.
+applicableDate,What is the applicableDate of Ajay Sharma?
+applicableDate,Can you tell me applicableDate for Priya Verma?
+applicableDate,Please provide the applicableDate for John Doe.
+endDate,What is the endDate of Ajay Sharma?
+endDate,Can you tell me endDate for Priya Verma?
+endDate,Please provide the endDate for John Doe.
+salarytype,What is the salarytype of Ajay Sharma?
+salarytype,Can you tell me salarytype for Priya Verma?
+salarytype,Please provide the salarytype for John Doe.
+biometricCode,What is the biometricCode of Ajay Sharma?
+biometricCode,Can you tell me biometricCode for Priya Verma?
+biometricCode,Please provide the biometricCode for John Doe.
+biometricSerialNo,What is the biometricSerialNo of Ajay Sharma?
+biometricSerialNo,Can you tell me biometricSerialNo for Priya Verma?
+biometricSerialNo,Please provide the biometricSerialNo for John Doe.
+salaryCalculationAct,What is the salaryCalculationAct of Ajay Sharma?
+salaryCalculationAct,Can you tell me salaryCalculationAct for Priya Verma?
+salaryCalculationAct,Please provide the salaryCalculationAct for John Doe.
+employment,What is the employment of Ajay Sharma?
+employment,Can you tell me employment for Priya Verma?
+employment,Please provide the employment for John Doe.
+overtime,What is the overtime of Ajay Sharma?
+overtime,Can you tell me overtime for Priya Verma?
+overtime,Please provide the overtime for John Doe.
+esicEndMonth,What is the esicEndMonth of Ajay Sharma?
+esicEndMonth,Can you tell me esicEndMonth for Priya Verma?
+esicEndMonth,Please provide the esicEndMonth for John Doe.
+adharName,What is the adharName of Ajay Sharma?
+adharName,Can you tell me adharName for Priya Verma?
+adharName,Please provide the adharName for John Doe.
+pfjoiningDate,What is the pfjoiningDate of Ajay Sharma?
+pfjoiningDate,Can you tell me pfjoiningDate for Priya Verma?
+pfjoiningDate,Please provide the pfjoiningDate for John Doe.
+pfbankMasterID,What is the pfbankMasterID of Ajay Sharma?
+pfbankMasterID,Can you tell me pfbankMasterID for Priya Verma?
+pfbankMasterID,Please provide the pfbankMasterID for John Doe.
+pfbankIFSC,What is the pfbankIFSC of Ajay Sharma?
+pfbankIFSC,Can you tell me pfbankIFSC for Priya Verma?
+pfbankIFSC,Please provide the pfbankIFSC for John Doe.
+pfbankAccountNo,What is the pfbankAccountNo of Ajay Sharma?
+pfbankAccountNo,Can you tell me pfbankAccountNo for Priya Verma?
+pfbankAccountNo,Please provide the pfbankAccountNo for John Doe.
+esicjoiningDate,What is the esicjoiningDate of Ajay Sharma?
+esicjoiningDate,Can you tell me esicjoiningDate for Priya Verma?
+esicjoiningDate,Please provide the esicjoiningDate for John Doe.
+bloodgroup,What is the bloodgroup of Ajay Sharma?
+bloodgroup,Can you tell me bloodgroup for Priya Verma?
+bloodgroup,Please provide the bloodgroup for John Doe.
+nationality,What is the nationality of Ajay Sharma?
+nationality,Can you tell me nationality for Priya Verma?
+nationality,Please provide the nationality for John Doe.
+attendanceFrom,What is the attendanceFrom of Ajay Sharma?
+attendanceFrom,Can you tell me attendanceFrom for Priya Verma?
+attendanceFrom,Please provide the attendanceFrom for John Doe.
+fullMonthPresence,What is the fullMonthPresence of Ajay Sharma?
+fullMonthPresence,Can you tell me fullMonthPresence for Priya Verma?
+fullMonthPresence,Please provide the fullMonthPresence for John Doe.
+nameAsBank,What is the nameAsBank of Ajay Sharma?
+nameAsBank,Can you tell me nameAsBank for Priya Verma?
+nameAsBank,Please provide the nameAsBank for John Doe.
+employeeType,What is the employeeType of Ajay Sharma?
+employeeType,Can you tell me employeeType for Priya Verma?
+employeeType,Please provide the employeeType for John Doe.
+contractorId,What is the contractorId of Ajay Sharma?
+contractorId,Can you tell me contractorId for Priya Verma?
+contractorId,Please provide the contractorId for John Doe.
+payrollFrequency,What is the payrollFrequency of Ajay Sharma?
+payrollFrequency,Can you tell me payrollFrequency for Priya Verma?
+payrollFrequency,Please provide the payrollFrequency for John Doe.
+createdBy_displayName,What is the createdBy_displayName of Ajay Sharma?
+createdBy_displayName,Can you tell me createdBy_displayName for Priya Verma?
+createdBy_displayName,Please provide the createdBy_displayName for John Doe.
+updatedBy_displayName,What is the updatedBy_displayName of Ajay Sharma?
+updatedBy_displayName,Can you tell me updatedBy_displayName for Priya Verma?
+updatedBy_displayName,Please provide the updatedBy_displayName for John Doe.
+designationName,What is the designationName of Ajay Sharma?
+designationName,Can you tell me designationName for Priya Verma?
+designationName,Please provide the designationName for John Doe.
+departmentName,What is the departmentName of Ajay Sharma?
+departmentName,Can you tell me departmentName for Priya Verma?
+departmentName,Please provide the departmentName for John Doe.
+branchName,What is the branchName of Ajay Sharma?
+branchName,Can you tell me branchName for Priya Verma?
+branchName,Please provide the branchName for John Doe.
+joiningDate + departmentName,When did Ajay Sharma join the Manufacturing department?
+email + userNumber,Can you give me the email and phone number of Priya Verma?
+firstName + lastName + employeeCode,What is the full name and employee code of John Doe?
+designationName + departmentName + branchName,"Which designation and department does Ajay Sharma work in, and in which branch?"
+pancard + adharCard,Please share Ajay Sharma’s PAN and Aadhaar numbers.
+bankAccountNo + bankIFSC,Give me the bank account number and IFSC for Priya Verma.
+joiningDate + employment + payrollFrequency,"What is the joining date, employment type, and payroll frequency of John Doe?"
+dob + gender + maratialStatus,"What is the date of birth, gender, and marital status of Ajay Sharma?"
+designationName + salarytype,What is the designation and salary type for Priya Verma?
+employeeType + departmentName + branchName,"Is Ajay Sharma a national or contractual employee, and which department and branch is he in?"
